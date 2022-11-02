@@ -1,0 +1,46 @@
+Change Component Comment : Designator=Q? Old Comment=BC547BG New Comment=BC547CG
+Change Managed Component Library Link : Designator=Q? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8A1CB965-918D-4222-A477-021042FB9BA1 New ItemGUID=3C2BC40B-BB73-4CD7-B683-FA9216B0B4DA Old RevisionGUID=006685CC-0AB0-4CEB-AE72-852591FC4BF8 New RevisionGUID=F2F4A421-631D-4CDB-BDE8-4DF12E49543B
+Change component parameters: Designator = "Q?" ("Q?"); Footprint = "ONSC-TO-92-3-29-11"; UniqueID = "\DVHXUFFA" ("\DVHXUFFA")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BC546-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/2N6426-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "fT Min (MHz)"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC Continuous (A)"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_SL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "BC547CG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetQ?_1" already exists
+Add Net: Net with name "NetQ?_2" already exists
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1mF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 4.7µF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1mF
+Added Member To Class: ClassName=Sheet1 Member=Component Q? TIP31CG
+Added Member To Class: ClassName=Sheet1 Member=Component Q? TIP31CG
+Added Member To Class: ClassName=Sheet1 Member=Component Q? BC547CG
+Added Member To Class: ClassName=Sheet1 Member=Component Q? TIP32CG
+Added Member To Class: ClassName=Sheet1 Member=Component R? 8O
+Added Member To Class: ClassName=Sheet1 Member=Component R? 8O
+Added Member To Class: ClassName=Sheet1 Member=Component R? 8O
+Added Member To Class: ClassName=Sheet1 Member=Component R? 8O
+Added Member To Class: ClassName=Sheet1 Member=Component R? 8O
+Added Member To Class: ClassName=Sheet1 Member=Component R? 8O
+Added Member To Class: ClassName=Sheet1 Member=Component R? 8O
+Added Member To Class: ClassName=Sheet1 Member=Component R? 8O
+Added Member To Class: ClassName=Sheet1 Member=Component R? 8O
+Added Member To Class: ClassName=Sheet1 Member=Component R? 8O
+Added Member To Class: ClassName=Sheet1 Member=Component R? 8O
+Added Member To Class: ClassName=Sheet1 Member=Component R? 8O
